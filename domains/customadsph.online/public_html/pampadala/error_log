@@ -1,3 +1,0 @@
-[01-Oct-2020 09:52:43 UTC] PHP Notice:  Undefined variable: obj in /home/u914242254/domains/customadsph.online/public_html/pampadala/dashboard.php on line 331
-[01-Oct-2020 09:52:43 UTC] PHP Notice:  Trying to get property 'CheckBalanceResult' of non-object in /home/u914242254/domains/customadsph.online/public_html/pampadala/dashboard.php on line 331
-[01-Oct-2020 09:52:43 UTC] PHP Notice:  Trying to get property 'RemBal' of non-object in /home/u914242254/domains/customadsph.online/public_html/pampadala/dashboard.php on line 331
